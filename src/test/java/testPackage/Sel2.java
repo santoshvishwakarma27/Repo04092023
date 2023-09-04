@@ -13,6 +13,7 @@ public class Sel2
 	WebDriver driver=new ChromeDriver();
 	driver.manage().window().maximize();
 	driver.get("https://www.google.co.in/");
+	System.out.println("Opened Google Home Page");
 	driver.quit();
 	//Dimension d=new Dimension(400,900);
 	//driver.manage().window().setSize(d);
