@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="testPackage.Sel2"/>
+      <class name="testPackage.Grid"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
